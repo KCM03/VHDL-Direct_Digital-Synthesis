@@ -6,8 +6,7 @@ Generation of a Sine-Wave with Customisable Frequency and Amplitude for use in a
 -To generate outputs from this IP, a sine ROM must be generated using the block memory generator IP; a VHDL wrapper must also be written to interface with the user-side logic.
 
 <img width="734" alt="image" src="https://github.com/user-attachments/assets/478f0f1d-5ebd-4976-ba40-bddbaffdf644" />
-<img width="481" alt="image" src="https://github.com/user-attachments/assets/1ba6dec6-0bda-4a24-9ceb-54ebc3adc17b" />
-<\b>
+<img width="481" alt="image" src="https://github.com/user-attachments/assets/1ba6dec6-0bda-4a24-9ceb-54ebc3adc17b" /></b>
 
 -A *.coe initialisation file was written in MATLAB to generate 256 samples (giving 8 addressable bits) of an 8-bit (0-255) sinusoidal waveform. Set the initialisation radix to 10 (or the base of your selected coe file).</b>
 
