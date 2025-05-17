@@ -9,10 +9,10 @@ To generate outputs from this IP, a sine ROM must be generated using the block m
 <img width="481" alt="image" src="https://github.com/user-attachments/assets/1ba6dec6-0bda-4a24-9ceb-54ebc3adc17b" />
 <\b>
 
-A coe initialisation file was written in MATLAB to generate 256 samples (giving 8 addressable bits) of an 8-bit (0-255) sinusoidal period.<\b>
+A coe initialisation file was written in MATLAB to generate 256 samples (giving 8 addressable bits) of an 8-bit (0-255) sinusoidal waveform.</b>
 
-<img width="483" alt="image" src="https://github.com/user-attachments/assets/a36c4337-e18d-4783-80b2-446156a08ff9" /><\b>
+<img width="483" alt="image" src="https://github.com/user-attachments/assets/a36c4337-e18d-4783-80b2-446156a08ff9" /></b>
 
-This period's frequency of oscillation and amplitude are determined by user-side logic; the depth and frequency  of the waveform go from 0 to 255.
+This wave's frequency of oscillation and amplitude are determined by user-side logic; the depth and frequency  of the waveform go from 0 to 255.
 
 
